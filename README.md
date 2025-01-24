@@ -13,4 +13,4 @@ Eu sou Dennis William, sou um Programador Front End, atualmente estou aprendendo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisDev2911)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=DennisDev2911-username)
+
