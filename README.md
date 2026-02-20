@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a criar projetos com:
-<b/>
+<b>
+<b>
 <h3>Linguagens e Ferramentas:<h3/>
   
 - <a href="https://www.youtube.com/watch?v=KC2WD_rXXp8"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO" /><a/>
@@ -15,5 +16,4 @@ Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a 
 
 - <a href="https://www.linkedin.com/in/dennis-william-coimbra-prudente-2240a7379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo" /><a/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisDev2911)](https://github.com/anuraghazra/github-readme-stats)
+[![Dennis stats](https://github-readme-stats.vercel.app/api?username=DennisDev2911)](https://github.com/anuraghazra/github-readme-stats)
