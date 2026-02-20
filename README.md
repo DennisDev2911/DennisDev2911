@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a criar projetos com:
-<b>
-<b>
-<h3>Linguagens e Ferramentas:<h3/>
+<br>
+<br>
+<h3>Linguagens e Ferramentas:</h3>
   
-- <a href="https://www.youtube.com/watch?v=KC2WD_rXXp8"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO" /><a/>
-- <a href="https://www.youtube.com/watch?v=aFgtTpjYsf8&t=373s"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO" /><a/>
-- <a href="https://www.youtube.com/watch?v=T3EM-bK2Nog"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScripr-logo" /><a/>
-- <a hrfe="https://www.youtube.com/watch?v=hHcaVgoLLQM"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" /><a/>
+- <a href="https://www.youtube.com/watch?v=KC2WD_rXXp8"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO" /></a>
+- <a href="https://www.youtube.com/watch?v=aFgtTpjYsf8&t=373s"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO" /></a>
+- <a href="https://www.youtube.com/watch?v=T3EM-bK2Nog"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScripr-logo" /></a>
+- <a hrfe="https://www.youtube.com/watch?v=hHcaVgoLLQM"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" /></a>
 
-<b/>
+<br>
 
-<h3>Conecte-se comigo:<h3/>
+<h3>Conecte-se comigo:</h3>
 
-- <a href="https://www.linkedin.com/in/dennis-william-coimbra-prudente-2240a7379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo" /><a/>
+- <a href="https://www.linkedin.com/in/dennis-william-coimbra-prudente-2240a7379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo" /></a>
 
 [![Dennis stats](https://github-readme-stats.vercel.app/api?username=DennisDev2911)](https://github.com/anuraghazra/github-readme-stats)
