@@ -16,4 +16,4 @@ Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a 
 
 - <a href="https://www.linkedin.com/in/dennis-william-coimbra-prudente-2240a7379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo" /></a>
 
-[![DennisDev2911 stats](https://github-readme-stats.vercel.app/api?username=DennisDev2911)](https://github.com/anuraghazra/github-readme-stats)
+
