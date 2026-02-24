@@ -1,4 +1,4 @@
-8## Hi there 👋
+## Hi there 👋
 
 Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a criar projetos com:
 <br>
