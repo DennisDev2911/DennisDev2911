@@ -10,7 +10,7 @@ Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a 
 - <a href="https://www.youtube.com/watch?v=T3EM-bK2Nog"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScripr-logo" /></a>
 - <a href="https://www.youtube.com/watch?v=hHcaVgoLLQM"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" /></a>
 
-<br>
+
 
 <h3>Conecte-se comigo:</h3>
 
