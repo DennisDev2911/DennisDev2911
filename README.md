@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ## Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a criar projetos com:
+ Sou Dennis William, sou um Programador Front End, atualmente estou aprendendo a criar projetos com:
 <br>
 <br>
 <h3>Linguagens e Ferramentas:</h3>
